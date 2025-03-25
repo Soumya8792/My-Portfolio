@@ -28,14 +28,14 @@ const projects = [
     description: "Valet Management System follow ups customer vehicle records, track customer call and request procedures like delivery vehicle.",
     image:
       "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
-    // link: "https://webbook.wegsoft.com/",
+     link: "https://play.google.com/store/apps/details?id=com.wegsoft.park&pcampaignid=web_share",
   },
   {
     title: "Flutter Getx-MVVM ",
     description: "A Flutter project implementing the MVVM architecture using GetX for state management. Features include efficient API integration, reactive UI updates, and seamless navigation handling.",
     image:
       "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
-    // link: "https://webbook.wegsoft.com/",
+     link: "https://github.com/Soumya8792/Flutter-MVVM-Arch",
   },
 ];
 
