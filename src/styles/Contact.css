@@ -1,0 +1,22 @@
+.contact {
+  padding: 5rem 0;
+  background-color: var(--color-white);
+}
+
+.contact-content {
+  max-width: 42rem;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.contact h2 {
+  font-size: 1.875rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+.contact-description {
+  color: var(--color-gray-600);
+  margin-bottom: 2rem;
+  line-height: 1.6;
+}
