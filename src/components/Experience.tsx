@@ -6,15 +6,10 @@ const experiences = [
   {
     title: "Frontend Developer - Flutter",
     company: "Wegsoft Technologies",
-    period: "2024 - Present",
-    description: "Developed and maintained projects using modern technologies"
+    period: "2023 - Present",
+    description: "Developed and maintained projects using modern technologies and Led the development of dynamic and high-performance mobile applications using Flutter. Specialized in state management with GetX and Provider, ensuring smooth and responsive user experiences."
   },
-  {
-    title: "Flutter Developer",
-    company: "Hiyaak Systems and Technology Pvt Ltd",
-    period: "2023 - 2024",
-    description: "Led the development of dynamic and high-performance mobile applications using Flutter. Specialized in state management with GetX and Provider, ensuring smooth and responsive user experiences."
-  }
+
 ];
 
 export function Experience() {
